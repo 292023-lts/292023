@@ -35,7 +35,13 @@ Since we have assumed that few systems already exists we can say that in future 
  How:
 
     *This problem may cause ineffective treatment and hence there can be a huge amount of loss of the people lifes.
- 
+   
+ # swot analysis
+ ![image](https://user-images.githubusercontent.com/80347973/115014987-a72c0c00-9ed0-11eb-83b2-982a948504d3.png)
+
+   
+   
+   
 # research
 It refers to a number of efficient automated systems designed for tracking patient information, diagnoses, prescriptions, interactions and encounters within healthcare organizations like medical clinics or hospitals.
 # Benefits
