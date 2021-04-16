@@ -26,5 +26,7 @@ H_05	  --  Check if record is updated properly
 H_06    -- 	Deleting Record	
 
 H_07	  --  When required list can be stored in file
+
 H_08	  --  When program shuts down records should be saved in File	
+
 H_09    -- 	When program Shuts down all allocated Memory Locations should be free.
